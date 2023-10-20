@@ -7,3 +7,10 @@ The project employs various data sources, including global and regional health o
 
 https://lookerstudio.google.com/reporting/46dbb6b9-51c3-4ab3-95e3-124d99a98877 
 
+
+![0001](https://github.com/Dubeyrock/Times-Analysis-Covid--19-task--8/assets/96882359/e9772fd7-6920-43d3-99c3-8050d4d5009d) 
+
+![0002](https://github.com/Dubeyrock/Times-Analysis-Covid--19-task--8/assets/96882359/d5c8556e-0a96-4fea-860c-ca789dfce035)
+
+
+![0003](https://github.com/Dubeyrock/Times-Analysis-Covid--19-task--8/assets/96882359/574b5cec-0782-4a76-8d05-a3c6928a9c5f)
